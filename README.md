@@ -1,15 +1,276 @@
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Arango DB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AzharDayo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AzharDayo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzharDayo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AzharDayo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 👨‍💻 Azhar Ali | Computer Science Student & Cybersecurity Enthusiast
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Sukkur%20IBA%20University-Student-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/DecodeLabs-Junior%20Analyst%20Intern-red?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-azharalidayo.me-green?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AzharDayo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+I am a **Computer Science student (6th Semester)** at **Sukkur IBA University** with a deep passion for building secure digital ecosystems. My journey spans across **Full-Stack Development**, **Mobile Applications**, and **Cybersecurity**. Currently, I am honing my skills as a **Junior Analyst Intern at DecodeLabs**, focusing on cryptography and phishing awareness.
+
+- 🛡️ **Cybersecurity:** Exploring penetration testing, vulnerability assessments, and secure coding practices.
+- 📱 **Mobile Dev:** Experienced in building cross-platform apps using Flutter & Supabase.
+- 💻 **Web Dev:** Crafting scalable applications with React.js, Node.js, and various SQL/NoSQL databases.
+- 📊 **Data Science:** Applying predictive modeling and EDA to derive actionable insights.
+
+---
+
+### 💻 Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, Java, C++, C, Dart, JavaScript, PHP, Ruby, Swift, C#, Kotlin |
+| **Frontend** | React.js, Next.js, Flutter, HTML5, CSS3, Bootstrap |
+| **Backend** | Node.js, NestJS, REST APIs |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase, SQLite, Oracle, ArangoDB |
+| **Cybersecurity** | OWASP Top 10, Cryptography, Phishing Detection, Network Security |
+| **Design/Tools** | Figma, Adobe Creative Cloud, Git, GitHub, Postman, VS Code |
+
+---
+
+### 🛠 Projects & Highlights
+- **Secure E-Commerce Web App:** A full-stack solution with role-based access and secure CRUD operations.
+- **Hierarchical Campus Network:** Designed a complex 3-tier network architecture for a university setting.
+- **Mobile Apps:** Developed 3+ Flutter applications with integrated APIs and state management.
+- **Security Assessment Tool:** Currently developing tools for vulnerability assessment.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzharDayo&theme=dark&hide_border=false&show_icons=true" alt="Azhar's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzharDayo&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Achievements
+- **SEEF Merit Scholar** (Top 5% of class at Sukkur IBA)
+- **Prime Minister's National Merit Awardee** (Laptop Scheme)
+- **Volunteer at Amn Bethak** (Tech awareness workshops for 50+ participants)
+
+---
+
+### 📫 Connect with Me
+- **Portfolio:** [azharalidayo.me](https://azharalidayo.me)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/azhar-ali-dayo/)
+- **Email:** azharali@example.com
+
+---
+<p align="center">
+  <i>"Building secure, scalable, and user-centric solutions."</i>
+</p>
+# 👨‍💻 Azhar Ali | Computer Science Student & Cybersecurity Enthusiast
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Sukkur%20IBA%20University-Student-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/DecodeLabs-Junior%20Analyst%20Intern-red?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-azharalidayo.me-green?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
+
+---
+
+### 🚀 About Me
+I am a **Computer Science student (6th Semester)** at **Sukkur IBA University** with a deep passion for building secure digital ecosystems. My journey spans across **Full-Stack Development**, **Mobile Applications**, and **Cybersecurity**. Currently, I am honing my skills as a **Junior Analyst Intern at DecodeLabs**, focusing on cryptography and phishing awareness.
+
+- 🛡️ **Cybersecurity:** Exploring penetration testing, vulnerability assessments, and secure coding practices.
+- 📱 **Mobile Dev:** Experienced in building cross-platform apps using Flutter & Supabase.
+- 💻 **Web Dev:** Crafting scalable applications with React.js, Node.js, and various SQL/NoSQL databases.
+- 📊 **Data Science:** Applying predictive modeling and EDA to derive actionable insights.
+
+---
+
+### 💻 Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, Java, C++, C, Dart, JavaScript, PHP, Ruby, Swift, C#, Kotlin |
+| **Frontend** | React.js, Next.js, Flutter, HTML5, CSS3, Bootstrap |
+| **Backend** | Node.js, NestJS, REST APIs |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase, SQLite, Oracle, ArangoDB |
+| **Cybersecurity** | OWASP Top 10, Cryptography, Phishing Detection, Network Security |
+| **Design/Tools** | Figma, Adobe Creative Cloud, Git, GitHub, Postman, VS Code |
+
+---
+
+### 🛠 Projects & Highlights
+- **Secure E-Commerce Web App:** A full-stack solution with role-based access and secure CRUD operations.
+- **Hierarchical Campus Network:** Designed a complex 3-tier network architecture for a university setting.
+- **Mobile Apps:** Developed 3+ Flutter applications with integrated APIs and state management.
+- **Security Assessment Tool:** Currently developing tools for vulnerability assessment.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzharDayo&theme=dark&hide_border=false&show_icons=true" alt="Azhar's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzharDayo&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Achievements
+- **SEEF Merit Scholar** (Top 5% of class at Sukkur IBA)
+- **Prime Minister's National Merit Awardee** (Laptop Scheme)
+- **Volunteer at Amn Bethak** (Tech awareness workshops for 50+ participants)
+
+---
+
+### 📫 Connect with Me
+- **Portfolio:** [azharalidayo.me](https://azharalidayo.me)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/azhar-ali-dayo/)
+- **Email:** azharali@example.com
+
+---
+<p align="center">
+  <i>"Building secure, scalable, and user-centric solutions."</i>
+</p>
+# 👨‍💻 Azhar Ali | Computer Science Student & Cybersecurity Enthusiast
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Sukkur%20IBA%20University-Student-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/DecodeLabs-Junior%20Analyst%20Intern-red?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-azharalidayo.me-green?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
+
+---
+
+### 🚀 About Me
+I am a **Computer Science student (6th Semester)** at **Sukkur IBA University** with a deep passion for building secure digital ecosystems. My journey spans across **Full-Stack Development**, **Mobile Applications**, and **Cybersecurity**. Currently, I am honing my skills as a **Junior Analyst Intern at DecodeLabs**, focusing on cryptography and phishing awareness.
+
+- 🛡️ **Cybersecurity:** Exploring penetration testing, vulnerability assessments, and secure coding practices.
+- 📱 **Mobile Dev:** Experienced in building cross-platform apps using Flutter & Supabase.
+- 💻 **Web Dev:** Crafting scalable applications with React.js, Node.js, and various SQL/NoSQL databases.
+- 📊 **Data Science:** Applying predictive modeling and EDA to derive actionable insights.
+
+---
+
+### 💻 Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, Java, C++, C, Dart, JavaScript, PHP, Ruby, Swift, C#, Kotlin |
+| **Frontend** | React.js, Next.js, Flutter, HTML5, CSS3, Bootstrap |
+| **Backend** | Node.js, NestJS, REST APIs |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase, SQLite, Oracle, ArangoDB |
+| **Cybersecurity** | OWASP Top 10, Cryptography, Phishing Detection, Network Security |
+| **Design/Tools** | Figma, Adobe Creative Cloud, Git, GitHub, Postman, VS Code |
+
+---
+
+### 🛠 Projects & Highlights
+- **Secure E-Commerce Web App:** A full-stack solution with role-based access and secure CRUD operations.
+- **Hierarchical Campus Network:** Designed a complex 3-tier network architecture for a university setting.
+- **Mobile Apps:** Developed 3+ Flutter applications with integrated APIs and state management.
+- **Security Assessment Tool:** Currently developing tools for vulnerability assessment.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzharDayo&theme=dark&hide_border=false&show_icons=true" alt="Azhar's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzharDayo&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Achievements
+- **SEEF Merit Scholar** (Top 5% of class at Sukkur IBA)
+- **Prime Minister's National Merit Awardee** (Laptop Scheme)
+- **Volunteer at Amn Bethak** (Tech awareness workshops for 50+ participants)
+
+---
+
+### 📫 Connect with Me
+- **Portfolio:** [azharalidayo.me](https://azharalidayo.me)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/azhar-ali-dayo/)
+- **Email:** azharali@example.com
+
+---
+<p align="center">
+  <i>"Building secure, scalable, and user-centric solutions."</i>
+</p>
+# 👨‍💻 Azhar Ali | Computer Science Student & Cybersecurity Enthusiast
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Sukkur%20IBA%20University-Student-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/DecodeLabs-Junior%20Analyst%20Intern-red?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-azharalidayo.me-green?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
+
+---
+
+### 🚀 About Me
+I am a **Computer Science student (6th Semester)** at **Sukkur IBA University** with a deep passion for building secure digital ecosystems. My journey spans across **Full-Stack Development**, **Mobile Applications**, and **Cybersecurity**. Currently, I am honing my skills as a **Junior Analyst Intern at DecodeLabs**, focusing on cryptography and phishing awareness.
+
+- 🛡️ **Cybersecurity:** Exploring penetration testing, vulnerability assessments, and secure coding practices.
+- 📱 **Mobile Dev:** Experienced in building cross-platform apps using Flutter & Supabase.
+- 💻 **Web Dev:** Crafting scalable applications with React.js, Node.js, and various SQL/NoSQL databases.
+- 📊 **Data Science:** Applying predictive modeling and EDA to derive actionable insights.
+
+---
+
+### 💻 Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, Java, C++, C, Dart, JavaScript, PHP, Ruby, Swift, C#, Kotlin |
+| **Frontend** | React.js, Next.js, Flutter, HTML5, CSS3, Bootstrap |
+| **Backend** | Node.js, NestJS, REST APIs |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase, SQLite, Oracle, ArangoDB |
+| **Cybersecurity** | OWASP Top 10, Cryptography, Phishing Detection, Network Security |
+| **Design/Tools** | Figma, Adobe Creative Cloud, Git, GitHub, Postman, VS Code |
+
+---
+
+### 🛠 Projects & Highlights
+- **Secure E-Commerce Web App:** A full-stack solution with role-based access and secure CRUD operations.
+- **Hierarchical Campus Network:** Designed a complex 3-tier network architecture for a university setting.
+- **Mobile Apps:** Developed 3+ Flutter applications with integrated APIs and state management.
+- **Security Assessment Tool:** Currently developing tools for vulnerability assessment.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzharDayo&theme=dark&hide_border=false&show_icons=true" alt="Azhar's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzharDayo&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Achievements
+- **SEEF Merit Scholar** (Top 5% of class at Sukkur IBA)
+- **Prime Minister's National Merit Awardee** (Laptop Scheme)
+- **Volunteer at Amn Bethak** (Tech awareness workshops for 50+ participants)
+
+---
+
+### 📫 Connect with Me
+- **Portfolio:** [azharalidayo.me](https://azharalidayo.me)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/azhar-ali-dayo/)
+- **Email:** azharali@example.com
+
+---
+<p align="center">
+  <i>"Building secure, scalable, and user-centric solutions."</i>
+</p>
+README.md
+README.md
+README.md
+README.md
+README.md
+Displaying README.md.Displaying README.md.Displaying README.md.Loading README.md.Displaying README.md.
