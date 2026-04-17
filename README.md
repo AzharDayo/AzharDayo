@@ -13,15 +13,15 @@
 ---
 
 ### 🚀 The Hook
-> [cite_start]**"Bridging the gap between robust system security and seamless user experiences."** > I am a **6th Semester Computer Science student** at **Sukkur IBA University** [cite: 4, 9] and a **Software Engineer Intern at 10Pearls**. [cite_start]Whether I am architecting a 3-tier campus network or building secure full-stack applications[cite: 31], my focus is always on scalability, security, and performance.
+**"Bridging the gap between robust system security and seamless user experiences."** > I am a **6th Semester Computer Science student** at **Sukkur IBA University**  and a **Software Engineer Intern at 10Pearls**. Whether I am architecting a 3-tier campus network or building secure full-stack applications, my focus is always on scalability, security, and performance.
 
 ---
 
 ### 🛡️ Core Expertise
-* [cite_start]**Cybersecurity:** Practicing vulnerability assessments (OWASP Top 10), penetration testing, and secure coding[cite: 23, 30].
-* [cite_start]**Full-Stack & Mobile:** Intermediate **Flutter** developer [cite: 20] [cite_start]paired with **React.js**, **Node.js**, and **Next.js** for high-performance web systems[cite: 31].
+**Cybersecurity:** Practicing vulnerability assessments (OWASP Top 10), penetration testing, and secure coding.
+**Full-Stack & Mobile:** Intermediate **Flutter** developer paired with **React.js**, **Node.js**, and **Next.js** for high-performance web systems.
 * **Infrastructure:** Skilled in **System Administration**, **Network Design** (Cisco Packet Tracer), and **Cloud Services**.
-* [cite_start]**Data Science:** Implementing **Predictive Modeling** and **Exploratory Data Analysis** using Python[cite: 24, 29].
+**Data Science:** Implementing **Predictive Modeling** and **Exploratory Data Analysis** using Python.
 
 ---
 
@@ -54,18 +54,17 @@
 ---
 
 ### 🛠 Projects & Highlights
-* [cite_start]**Secure E-Commerce Platform:** Built using React.js, Node.js, and MySQL with robust role-based authentication[cite: 31].
-* **Campus Network Architecture:** Designed a three-tier hierarchical network with multiple departmental blocks in Cisco Packet Tracer.
-* [cite_start]**Flutter Portfolio:** Launched 3+ mobile apps integrating complex APIs and modern state management[cite: 28].
-* **Logic Circuit Implementation:** Verified complex mathematical equations through combinational logic in NI Multisim.
+**Secure E-Commerce Platform:** Built using React.js, Node.js, and MySQL with robust role-based authentication.
+ **Campus Network Architecture:** Designed a three-tier hierarchical network with multiple departmental blocks in Cisco Packet Tracer.
+ **Flutter Portfolio:** Launched 3+ mobile apps integrating complex APIs and modern state management.
+ **Logic Circuit Implementation:** Verified complex mathematical equations through combinational logic in NI Multisim.
 
 ---
 
 ### 🏆 Achievements
-* [cite_start]**SEEF Merit Scholar** (Top 5% of class) - Sukkur IBA University[cite: 48].
-* [cite_start]**PM National Merit Awardee** - Recipient of the Prime Minister's Laptop Scheme[cite: 49].
-* [cite_start]**Amn Bethak Volunteer** - Conducted tech workshops for 50+ participants[cite: 51].
-
+**SEEF Merit Scholar** (Top 5% of class) - Sukkur IBA University
+**PM National Merit Awardee** - Recipient of the Prime Minister's Laptop Scheme
+**Amn Bethak Volunteer** - Conducted tech workshops for 50+ participants
 ---
 
 ### 📫 Connect & Collaborate
